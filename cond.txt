@@ -1,0 +1,5 @@
+Angle_back 13
+Angle_hip -13
+Angle_ankle 21
+High 0
+Weight 0
